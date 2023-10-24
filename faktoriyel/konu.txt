@@ -1,0 +1,1 @@
+Aldığı sayının faktöriyelini hesaplayarak sayıyı geriye dönen fonksiyonu oluşturunuz.
