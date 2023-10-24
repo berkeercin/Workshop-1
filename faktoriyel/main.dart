@@ -1,24 +1,3 @@
-// void main() {
-//   print(faktoriyel(4));
-// }
-
-// int faktoriyelSayac(int input) {
-//   int count = input;
-//   while (count > 0) {
-//     var sonuc = faktoriyel(count);
-//     count--;
-//     return sonuc;
-//   }
-//   return 0;
-// }
-
-// int faktoriyel(int input) {
-//   int result = input * (input - 1);
-//   input--;
-//   print(result);
-//   return result;
-// }
-
 void main() {
   //! Sayı belirlenir
   int sayi = 6;
